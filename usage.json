@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/graphenix-plan-format",
+  "packageVersion": "2.17.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/graphenix-plan-format",
+  "usageRepository": "https://github.com/x12i-sdk/graphenix-plan-format",
+  "sourceRepository": "https://github.com/x12i/graphenix-format",
+  "sourceCommit": "28599719bd064429c220df35e297d299f81bbb40",
+  "sourcePackageDirectory": "packages/plan-format",
+  "example": {
+    "title": "Validate a compiled plan and reject an incomplete payload",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:56:50.016248+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "9dc8f7df72f5ea66ea357ea9d92c84432e318b96100cc18e79bedf78db94c8e5",
+    "manifestSha256": "5df86ee90d4c2c6c911834bf1378eb8ae30e7474cc708687d8113deba93526e6"
+  }
+}
